@@ -1,0 +1,59 @@
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: 5rem;
+    color:black;
+    font-family: "Mozilla Headline", sans-serif;
+}
+.navbar-brand:hover{
+    color: black;
+    font-family: "Mozilla Headline", sans-serif;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: blue;
+     font-family: "Mozilla Headline", sans-serif;
+    text-transform: uppercase;
+}
+.main.py-5{
+    background-image: url('veg.jpg');
+    background-size: cover;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+     height: 100vh;
+    width: 100%;
+    font-variation-settings:"wdth" 123.6;
+    font-family: "Mozilla Headline", sans-serif;
+    text-transform: uppercase;
+    color:aliceblue;
+}
+}
+.right-content {
+    text-align: left;
+    color: white;
+    max-width: 500px;
+    font-variation-settings:
+    "wdth" 123.6;
+}
+.div img{
+    width: 400px;
+    height: 300px;
+    border: 2px salmon;
+    box-shadow: 4px 7px 7px 0px #00000042;
+    cursor: pointer;
+    margin: : 10px;
+    transition: 400ms;
+}
+.contact{
+    background-color:rgb(251, 216, 216);
+    color:black;
+}
+.news{
+    background-color: black;
+    color:white;
+}
